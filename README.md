@@ -1,6 +1,6 @@
 ### Hi, I'm Noh Ah Jeong 👋
 
-Full-stack developer (4+ years) — I build and maintain production web apps with Laravel.
+Full-stack developer (5 years) — I build and maintain production web apps with Laravel.
 
 - 🛠️ **Backend:** PHP / Laravel, Blade, MySQL
 - 🎨 **Frontend:** HTML, CSS, Bootstrap, JavaScript / jQuery
